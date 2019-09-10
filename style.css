@@ -1,0 +1,19 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1567579518027-7a113279f8ce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80);
+}
+
+.jumbotron {
+    background: none;
+    font-family: sans-serif;
+    font-size: 300px;
+    color: #ED9D00;
+    text-shadow: 1px 1px 6px #ED9D00;
+    
+}
+
+.lead {
+    color: #D7D9CC;
+    font-family: sans-serif;
+    text-shadow: none;
+    
+}
